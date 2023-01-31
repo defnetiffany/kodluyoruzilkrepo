@@ -13,7 +13,7 @@
     Film, kitap, dizi tarzı şeyler hakkımdaki düşüncelerimi söylüyorum. <br>
     3 yaşımdan beri ingilizce öğreniyorum bu sayede ana dilimden daha iyi konuşuyorum.</p>
     <p>Üsküdar çocuk üniversitesini bitirdim. Hep yeni bir şeyler öğrenmeye olan <br> 
-      isteğimden dolayı birsürü aktiviteye katılıyorum. Çok sosyal biriyim.
+      isteğimden dolayı bir sürü aktiviteye katılıyorum. Çok sosyal biriyim.
     </p>
   </body>
 </html>
