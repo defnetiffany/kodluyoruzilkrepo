@@ -1,6 +1,19 @@
-Ödev 1
-GitHub'ta Repo İşlemleri
-Şu ana kadar bir sürü konu gördük ve birçok proje üzerinde çalıştık. Peki bu projeleri nasıl takip edeceğiz, nasıl derli toplu şekilde tutacağız? İşte burada GIT yardımımıza koşuyor. Bu bölümde öğrendiğiniz gibi GIT'in birçok avantajı var. Ve öğrendiklerinizi pekiştirmek için çok güzel bir ödevimiz var.
-
-GitHub'ta bir repo açıp adını "kodluyoruzilkrepo" koyun.
-Reponuzu public olarak oluşturun ki biz de daha sonradan görebilelim.)
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Defne Dursun</title>
+  </head>
+  <body>
+    <h1>Defne Tiffany Dursun</h1>
+    <h3>Hakkımda</h3>
+    <p>Merhaba, ben Defne. Çok büyük hedefleri olan biriyim. Hepsini başaracağıma eminim. 
+        <br>"Kodluyoruz"un bana katacaklarını görmek için heyecanlıyım.</p>
+    <p><a href="https://tiffanyorum.blogspot.com/" target="_blank" >tiffanyorum</a> isimli bir blogum var. 
+    Film, kitap, dizi tarzı şeyler hakkımdaki düşüncelerimi söylüyorum. <br>
+    3 yaşımdan beri ingilizce öğreniyorum bu sayede ana dilimden daha iyi konuşuyorum.</p>
+    <p>Üsküdar çocuk üniversitesini bitirdim. Hep yeni bir şeyler öğrenmeye olan <br> 
+      isteğimden dolayı birsürü aktiviteye katılıyorum. Çok sosyal biriyim.
+    </p>
+  </body>
+</html>
